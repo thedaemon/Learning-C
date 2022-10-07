@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="Chapter9ex1.c" />
+	<category name="Chapter16ex2.c" />
+	<category name="Chapter19ex2.c" />
+	<category name="Chapter21ex1.c" />
+	<category name="Chapter23ex1.c" />
+	<category name="Chapter24ex1.c">
+		<category name="Window">
+			<property name="Left" type="integer">52</property>
+			<property name="Top" type="integer">52</property>
+			<property name="Right" type="integer">770</property>
+			<property name="Bottom" type="integer">620</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="Chapter25ex1.c" />
+</settings>
